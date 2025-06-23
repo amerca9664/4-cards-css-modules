@@ -1,0 +1,38 @@
+.contentTitl {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    max-width: 400px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 50px;
+}
+
+.titlBlack{
+    font-size: 1.9rem;
+    color: var(--Grey400);
+    font-weight: 200;
+}
+
+.titlGray{
+    font-size: 1.9rem;
+    color: var(--Grey500);
+    font-weight: 600;
+}
+
+.parag{
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--Grey400);
+    font-weight: 400;
+}
+
+
+@media screen and (max-width: 1255px){
+    .titlBlack, .titlGray{
+        font-size: 1.8rem;
+
+    }
+
+}

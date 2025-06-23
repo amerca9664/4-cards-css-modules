@@ -1,8 +1,10 @@
+import Content from './components/Content/Content';
+
 const App = () => {
 	return (
-		<div>
-			<h1>Curso de React</h1>
-		</div>
+		<>
+			<Content></Content>
+		</>
 	);
 };
 

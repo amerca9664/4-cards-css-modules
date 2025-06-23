@@ -1,0 +1,60 @@
+.content {
+    position: absolute;
+    width:400px;
+    height: 280px;
+    padding: 10px 35px;
+    box-shadow: 0px 10px 20px hsla(234, 12.10%, 33.90%, 0.28);
+    border-radius: 10px;
+}
+.titleH2 {
+    color: var(--Grey500);
+}
+
+.parag{
+    font-size: 0.9rem;
+    color: var(--Grey400);
+    font-weight: 400;
+}
+
+.imageIco{
+    margin-left: auto; 
+    margin-top: 50px;
+}
+
+.contentSupervisor{
+    background: linear-gradient(var(--Supervisor) 5px, white 5px);
+    top:150px;
+    left:0;
+
+}
+
+.contentTeam{
+    background: linear-gradient(var(--TeamBuilder) 5px, white 5px);
+    left:425px;
+
+}
+
+.contentCalculator{
+    background: linear-gradient(var(--Calculator) 5px, white 5px);
+    top:150px;
+    right:0;
+}
+
+.contentKarma{
+    background: linear-gradient(var(--Karma) 5px, white 5px);
+    bottom:0px;
+    left:425px;
+}
+
+@media screen and (max-width: 1255px){
+    .content{
+        position:static;
+        width:350px;
+        height:260px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+
+    }
+    
+}
