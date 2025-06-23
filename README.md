@@ -1,24 +1,24 @@
-# Título del proyecto
+# 4 cards css modules
 
 <p>
-    <img src="" alt="Imagen del proyecto">
+    <img src="https://raw.githubusercontent.com/amerca9664/4-cards-css-modules/refs/heads/main/design/desktop-preview.jpg" alt="Imagen del proyecto">
 </p>
 
 ## Vista en vivo
 
 <ul>
     <li>
-        <a target="_blank" href="">Vista en vivo</a>
+        <a target="_blank" href="https://four-cards-css-modules.onrender.com">Vista en vivo</a>
     </li>
 </ul>
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Muestra 4 tarjetas con diferentes etilos.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Mejore mis habilidades con css modules y me acostumbre al import :(
 
 ## Tecnologías 🛠
 
@@ -36,14 +36,14 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 ## Capturas del proyecto
 
 <p>
-   <img src="" alt="Captura del proyecto">
-   <img src="" alt="Captura del proyecto">
-   <img width="200" src="" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/amerca9664/4-cards-css-modules/refs/heads/main/design/desktop-design.jpg" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/amerca9664/4-cards-css-modules/refs/heads/main/design/mobile-design.jpg" alt="Captura del proyecto">
+   <img width="200" src="https://raw.githubusercontent.com/amerca9664/4-cards-css-modules/refs/heads/main/design/desktop-preview.jpg" alt="Captura del proyecto">
 </p>
 
 ## Autor ✒️
 
-**TU NOMBRE**
+Erik L.
 
 <ul>
     <li>
@@ -59,7 +59,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 ## Link del reto
 
-<a href="">Página de frontendmentor</a>
+<a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK">Página de frontendmentor</a>
 
 ## Instalación
 
